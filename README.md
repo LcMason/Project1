@@ -9,5 +9,5 @@ Establishing a Critera for and Naming the top 5 players in the NBA per position.
 * Most Rebs. (Rebounds) per game
 * Most Assts. (Assists) per game
 
-## Link to example
-https://dribbble.com/shots/6388438-Player-Stats
+## Link to example 
+Player Stats - https://dribbble.com/shots/6388438-Player-Stats
